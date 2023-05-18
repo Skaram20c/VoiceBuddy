@@ -1,20 +1,20 @@
 # I am not adding this file in gitignore as I need this all data in raspberrypi to make it work I will reset all api
 # after semester ends.
 # Meross Info
-meros_email = "pankajsonihr@gmail.com"
-meros_password = "9255164735@Rs"
+meros_email = "XXXXXXXXXXXXXXX@gmail.com"
+meros_password = "XXXXXXXXXXXX@Rs"
 # Google Map Key
-map_key = 'AIzaSyCKaiUDsefkPCTxW8SL8vm6NVRZVRd5dbc'
+map_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 # News Api
-news_api = '97850604ddce408fb61e3f4b8268c429'
+news_api = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 # Recipe api key
-RECIPE_APP_ID = "887fd8e8"
-RECIPE_APP_KEY = "49b8012954b66468d56af8a3b188ff4b"
+RECIPE_APP_ID = "XXXXXXXXX"
+RECIPE_APP_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 #Twilio Account
-tw_account_sid = 'AC10135a8333e2a0574fe98bddecc2a463'
-tw_auth_token = '889fa01d1bbe541cdd254ea991447a39'
+tw_account_sid = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+tw_auth_token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 # Weather Api
-weather_api = 'cefeb2855f824dd9383c721096c4638f'
+weather_api = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 # Wolframalpha
-wolf_appId = 'P62LKH-UWXGKQ6684'
-openai_api_key = "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"
+wolf_appId = 'XXXXXXXX-XXXXXXX'
+openai_api_key = "XX-XXXXXXXXXXXXXXXXXXXXXXXXXXX"
